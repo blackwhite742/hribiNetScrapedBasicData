@@ -1,0 +1,564 @@
+Triglav|2864|46,37832°N 13,83648°E
+Montaž / Jôf di Montasio|2753|46,43577°N 13,43405°E
+Škrlatica|2740|46,43277°N 13,82114°E
+Mali Triglav|2725|46,37683°N 13,84315°E
+Mangart|2679|46,43948°N 13,65457°E
+Viš/Jof Fuart|2666|46,42996°N 13,49155°E
+Vrh Brda / Cima Verde|2661|46,43329°N 13,44233°E
+Visoki Rokav|2646|46,43547°N 13,8283°E
+Jalovec|2645|46,42154°N 13,68002°E
+Veliki Oltar|2621|46,43919°N 13,82995°E
+Velika Martuljška Ponca|2602|46,44179°N 13,82419°E
+Razor|2601|46,41194°N 13,79138°E
+Dolkova špica|2591|46,42574°N 13,81467°E
+Visoki Kanin|2587|46,36018°N 13,439°E
+Mali Kanin|2571|46,35727°N 13,43765°E
+Kanjavec (Zahodni vrh)|2569|46,3601°N 13,8073°E
+Kanjavec|2569|46,3602°N 13,80966°E
+Glava v Zaplanji|2556|46,37731°N 13,82801°E
+Rogljica|2547|46,42769°N 13,81231°E
+Prisank / Prisojnik|2547|46,42464°N 13,76974°E
+Rakova Špica|2545|46,43008°N 13,81379°E
+Dovški križ|2542|46,44081°N 13,8422°E
+Kredarica|2541|46,3801°N 13,8524°E
+Rž|2538|46,38155°N 13,8591°E
+Rjavina|2532|46,39185°N 13,88088°E
+Špik nad Nosom / Foronon del Buinz|2531|46,41788°N 13,46558°E
+Morbegna|2520|46,37661°N 13,82681°E
+Triglavski dom na Kredarici|2515|46,37891°N 13,84928°E
+Koštrunove špice|2502|46,42243°N 13,48655°E
+Mala Martuljška Ponca|2501|46,44339°N 13,82059°E
+Stenar|2501|46,40795°N 13,81896°E
+Spodnji Rokav|2500|46,43063°N 13,82878°E
+Prestreljenik|2499|46,36214°N 13,47237°E
+Široka peč|2497|46,44378°N 13,84228°E
+Poprovec|2496|46,35583°N 13,80273°E
+Teme (Hribarice)|2495|46,3575°N 13,8044°E
+Veliki Ozebnik|2480|46,41572°N 13,67936°E
+Špik|2472|46,44872°N 13,81432°E
+Mišeljski Konec|2464|46,35458°N 13,81831°E
+Begunjski vrh|2461|46,39032°N 13,85436°E
+Planja|2453|46,40712°N 13,78739°E
+Vršaki (Vzhodni vrh)|2448|46,3507°N 13,808°E
+Vrh Krnice|2441|46,3652°N 13,43339°E
+Vršaki (Južni vrh)|2431|46,3475°N 13,8024°E
+Bivak Suringar|2430|46,43675°N 13,42831°E
+Kukova špica|2427|46,44726°N 13,85481°E
+Vršaki (Srednji vrh)|2424|46,3496°N 13,8053°E
+Vršaki (Vrh za Koritami)|2422|46,3488°N 13,8029°E
+Špik Hude police / Cima di Terrarossa|2420|46,4266°N 13,45217°E
+Pihavec|2419|46,39254°N 13,80664°E
+Špik nad Planjo / Punta Plagnis|2411|46,41479°N 13,48343°E
+Križ|2410|46,41006°N 13,81101°E
+Visoka Vrbanova špica|2408|46,39132°N 13,86163°E
+Lopa|2406|46,3703°N 13,49434°E
+Gubno|2403|46,41718°N 13,80836°E
+Dom Planika pod Triglavom|2401|46,37154°N 13,84605°E
+Veliko Špičje|2398|46,34382°N 13,7672°E
+Cmir|2393|46,40065°N 13,86007°E
+Bovški Gamsovec|2392|46,3983°N 13,81286°E
+Prestreljeniško okno|2391|46,36112°N 13,46989°E
+Debeli vrh|2390|46,3408°N 13,81513°E
+Vrh Hribaric|2388|46,34948°N 13,8178°E
+Šplevta (Indijanec)|2382|46,4137°N 13,79895°E
+Strma peč / Monte Cimone|2380|46,42387°N 13,38607°E
+Travnik (pri Mojstrovkah)|2379|46,42902°N 13,71316°E
+Kucelj (Julijske Alpe)|2372|46,4273°N 13,81923°E
+Vrh Osojnic|2371|46,3584°N 13,4651°E
+Kriški rob|2366|46,40943°N 13,80196°E
+Velika Mojstrovka|2366|46,43601°N 13,7272°E
+Šmarjetna glava|2358|46,36433°N 13,82715°E
+Spodnji Stenar|2356|46,40552°N 13,81764°E
+Zadnja Mojstrovka|2354|46,43084°N 13,72004°E
+Vrh Krnega dola / Monte Cregnedul|2351|46,41377°N 13,48543°E
+Kol|2350|46,42756°N 13,70943°E
+Mišelj vrh|2350|46,3565°N 13,83745°E
+Plaski Vogel|2348|46,33771°N 13,75064°E
+Bavški Grintavec|2347|46,36899°N 13,67025°E
+Briceljk|2346|46,39508°N 13,63191°E
+Vevnica|2342|46,43963°N 13,68566°E
+Vrh Snežne konte|2342|46,37691°N 13,85545°E
+Velika Črnelska špica|2332|46,37654°N 13,51567°E
+Mala Mojstrovka|2332|46,43725°N 13,73111°E
+Dom Valentina Staniča pod Triglavom|2332|46,38703°N 13,85984°E
+Zadnji Vogel|2327|46,3402°N 13,7978°E
+Mali Ozebnik|2324|46,4072°N 13,6686°E
+Žrd / Sart|2324|46,38215°N 13,39984°E
+Velika Zelnarica|2320|46,34246°N 13,79081°E
+Veliki Nabojs / Monte Nabois grande|2313|46,43913°N 13,48831°E
+Malo Špičje|2312|46,35139°N 13,78335°E
+Mala Zelnarica|2310|46,33808°N 13,78967°E
+Škednjovec|2309|46,34948°N 13,82337°E
+Spodnja Vrbanova špica|2299|46,39655°N 13,86906°E
+Konjc|2289|46,35223°N 13,46995°E
+Frdamane police|2284|
+Tosc|2275|46,35672°N 13,8684°E
+Visoka Ponca|2274|46,46014°N 13,6974°E
+Šplevta|2272|46,43571°N 13,84014°E
+Strug|2265|46,4441°N 13,6939°E
+Dom Petra Skalarja na Kaninu|2260|46,35371°N 13,46864°E
+Visoka Bela Špica / Cima Alta di Riobianco|2257|46,423°N 13,5187°E
+Travnik|2252|46,33751°N 13,74382°E
+Krn|2244|46,26607°N 13,65862°E
+Veliki Draški vrh|2243|46,36017°N 13,87584°E
+Zadnja Ponca|2242|46,45048°N 13,69495°E
+Vrh Grubje|2240|46,37203°N 13,41694°E
+Srednja Ponca|2228|46,45676°N 13,69881°E
+Čelo|2228|46,32912°N 13,74117°E
+Srednji Vogel|2226|46,33414°N 13,79845°E
+Vernar|2225|46,36116°N 13,86152°E
+Rombon|2208|46,3672°N 13,5544°E
+Vodnikov Vršac (Vršac nad Zadnjico)|2194|46,36306°N 13,79715°E
+Kopica|2190|46,33257°N 13,78765°E
+Plešivec (Loška stena)|2184|46,4102°N 13,66046°E
+Gomiščkovo zavetišče na Krnu|2182|46,26526°N 13,65719°E
+Prvi Vogel|2181|46,33004°N 13,79969°E
+Vrh nad Peski|2176|46,2643°N 13,67794°E
+Batognica|2164|46,26349°N 13,66837°E
+Zgornje Kriško jezero|2158|46,40847°N 13,80578°E
+Koča na Doliču|2151|46,36487°N 13,81953°E
+Bivak Tarvisio|2150|
+Velika Baba (Kanin)|2148|46,3329°N 13,4494°E
+Bela peč/Monte Bila pec|2146|46,37497°N 13,45582°E
+Krnčica|2142|46,28178°N 13,65087°E
+Teme|2136|46,38747°N 13,88754°E
+Kotovo sedlo|2134|46,4304°N 13,68128°E
+Mali Draški vrh|2132|46,36324°N 13,89252°E
+Jerebica|2126|46,39843°N 13,56475°E
+Veliki Babanski Skedenj|2121|46,3336°N 13,4612°E
+Šmihelovec|2118|46,37561°N 13,66734°E
+Bivak na Jezerih|2118|46,43367°N 13,83861°E
+Trentski Pelc|2116|46,38609°N 13,70958°E
+Vršac (nad Zadnjo Trento)|2113|46,40038°N 13,68168°E
+Suhi vrh|2109|46,42901°N 13,7281°E
+Goličica|2101|46,39976°N 13,77074°E
+Cesar|2098|46,36653°N 13,85913°E
+Velika Tičarica|2091|46,32285°N 13,78576°E
+Zagorelec|2090|46,3791°N 13,67051°E
+Poldašnja špica/Jof di Miezegnot|2087|46,47667°N 13,45366°E
+Ogradi|2087|46,33469°N 13,83342°E
+Šitna glava|2087|46,43914°N 13,73879°E
+Tolminski Kuk|2085|46,2605°N 13,7568°E
+Zadnjiški Ozebnik|2084|46,36917°N 13,78205°E
+Sleme|2077|46,45172°N 13,87177°E
+Slatna|2077|46,32859°N 13,80486°E
+Prevalski Stog|2075|46,34432°N 13,8373°E
+Rigljica|2074|46,4581°N 13,80653°E
+Kamniti lovec / Cima del Cacciatore|2071|46,46466°N 13,52795°E
+Zasavska koča na Prehodavcih|2071|46,35856°N 13,79209°E
+Mala Tičarica|2071|46,3202°N 13,78512°E
+Zavetišče pod Špičkom|2064|46,41015°N 13,67785°E
+Poldnik (Kopa) / Picco di Mezzodi|2063|46,45951°N 13,63677°E
+Podrta gora|2061|46,26114°N 13,76907°E
+Veliki Pršivec|2056|46,38125°N 13,88672°E
+Vrh nad Škrbino|2054|46,2544°N 13,78°E
+Zeleni vrh|2052|46,2608°N 13,7635°E
+Pogačnikov dom na Kriških podih|2050|46,40273°N 13,80077°E
+Viševnik|2050|46,35901°N 13,89829°E
+Cima Alta (Dve špici)|2046|46,47645°N 13,42029°E
+Veliki Lemež|2042|46,2882°N 13,6721°E
+Bivak Marrusich|2041|46,37206°N 13,42438°E
+Jezerski Stog|2040|46,33838°N 13,8449°E
+Na Pečeh|2039|46,44889°N 13,82604°E
+Srednji vrh (nad jezerom v Lužnici)|2032|46,2609°N 13,6767°E
+Drobeče Sleme|2029|46,45453°N 13,87242°E
+Kreda|2025|46,32648°N 13,80956°E
+Eva|2019|46,34135°N 13,84004°E
+Velika Baba|2016|46,29478°N 13,70854°E
+Debela peč|2014|46,39071°N 13,93316°E
+Lopatnik|2012|46,2868°N 13,6493°E
+Adam|2012|46,3406°N 13,83849°E
+Mahavšček|2008|46,27747°N 13,73621°E
+Brda|2008|46,38497°N 13,92546°E
+Rjavo jezero|2006|46,35541°N 13,79558°E
+Ablanca|2004|46,35294°N 13,88419°E
+Lanževica|2003|46,29681°N 13,72491°E
+Kal|2001|46,31143°N 13,74607°E
+Meja|1996|46,25076°N 13,78727°E
+Vrh nad Vodeno Rupo|1995|46,3261°N 13,7915°E
+Zeleno jezero|1988|46,35125°N 13,79484°E
+Vratni vrh|1983|46,36069°N 13,51135°E
+Vogel (nad Lepeno)|1980|46,28518°N 13,66587°E
+Velika Bavha / Monte Robon|1980|46,38591°N 13,5137°E
+Bivak na Rušju|1980|46,41748°N 13,8199°E
+Draški rob|1979|46,3659°N 13,8971°E
+Bogatin|1977|46,28163°N 13,73508°E
+Pri Banderi|1974|46,35512°N 13,64484°E
+Lipanski vrh|1974|46,37901°N 13,92016°E
+Vrh Planje|1971|46,2663°N 13,7508°E
+Monte Gosadon|1968|46,47276°N 13,41588°E
+Raskovec|1967|46,22906°N 13,88543°E
+Rodica|1966|46,22774°N 13,86519°E
+Vrh Ovčje planje|1965|46,35453°N 13,64104°E
+Okroglež|1965|46,3861°N 13,93119°E
+Bivak pod Kotovim sedlom|1965|46,43066°N 13,6879°E
+Mrežce|1965|46,37759°N 13,91953°E
+Plešivec|1962|46,36113°N 13,51611°E
+Debeli vrh nad Lipanco|1962|46,37324°N 13,91123°E
+Velika Montura|1958|46,287°N 13,7116°E
+Lopič / Monte Plauris|1958|46,3592°N 13,1959°E
+Vrh Leh|1958|46,35786°N 13,64824°E
+Veliki Selišnik|1952|46,36606°N 13,90324°E
+Bivak Gorizia|1950|46,42571°N 13,51796°E
+Mali Raskovec|1946|46,23133°N 13,88013°E
+Suha Rodica (Novi vrh)|1944|46,22596°N 13,87618°E
+Veliki Šmohor|1944|46,27427°N 13,68549°E
+Prednje Robičje|1941|46,44441°N 13,74514°E
+Mali Šmohor|1939|46,27923°N 13,68712°E
+Matajurski vrh|1936|46,22633°N 13,89726°E
+Vrh Škrli|1926|46,27426°N 13,74549°E
+Macesnovec|1926|46,40378°N 13,90672°E
+Bela glava|1926|46,31811°N 13,79378°E
+Mala Ponca|1925|46,46818°N 13,6932°E
+Vogel|1922|46,23829°N 13,8125°E
+Rušnati vrh|1915|46,24681°N 13,7957°E
+Rdeči rob|1913|46,25016°N 13,69624°E
+Kraljevska špica/Monte Re|1912|46,45596°N 13,55719°E
+Slemenova špica|1911|46,44584°N 13,7266°E
+Speleološki bivak Modonutti - Savoia|1908|46,3845°N 13,5155°E
+Bivak Bernardinis|1907|46,47641°N 13,42407°E
+Mangartska koča na Mangartskem sedlu|1906|46,43932°N 13,64065°E
+Mala Rodica|1901|46,23085°N 13,86239°E
+Kser|1900|46,27221°N 13,74742°E
+Rušnata glava|1899|46,31315°N 13,78467°E
+Vrtaški vrh|1898|46,45531°N 13,88788°E
+Poljanski vrh|1897|46,23023°N 13,90303°E
+Vrh Krnic|1896|46,23958°N 13,80994°E
+Vrh Razora|1893|46,37598°N 13,91362°E
+Studorski preval|1892|46,35436°N 13,88201°E
+Srednji Selišnik|1890|46,36393°N 13,90285°E
+Krniška glavica / Jof di Sompdogna|1889|46,45313°N 13,43918°E
+Klečica|1889|46,3973°N 13,9413°E
+Velika Glava|1883|46,36286°N 13,77096°E
+Šija|1880|46,23863°N 13,83413°E
+Spodnje Kriško jezero|1880|46,39903°N 13,80185°E
+Krsteniški Stog|1879|46,33102°N 13,84955°E
+Konjski vrh|1879|46,2302°N 13,90863°E
+Čisti vrh|1875|46,3556°N 13,7523°E
+Rifugio Corsi|1874|46,42212°N 13,50003°E
+Tolminski Migovec|1868|46,24629°N 13,76239°E
+Požgana Mlinarica|1868|46,4079°N 13,8794°E
+Vrh Planje (nad Globokim)|1863|46,24408°N 13,80321°E
+Skutnik/Torre Guarda|1860|46,43403°N 13,59007°E
+Vrh Dlani|1852|46,239°N 13,8298°E
+Bivak Nogara|1850|46,44718°N 13,65418°E
+Rifugio Gilberti|1850|46,37194°N 13,46127°E
+Šober / Monte Sciober Grande|1845|46,45037°N 13,59921°E
+Žabiški Kuk|1844|46,23032°N 13,80484°E
+Črna prst|1844|46,23062°N 13,93184°E
+Četrt|1832|46,23067°N 13,91666°E
+Jezero v Ledvicah|1831|46,3402°N 13,78252°E
+Kovačičeva glava|1827|46,31981°N 13,8023°E
+Visoka glava|1822|46,3152°N 13,8012°E
+Vodnikov dom na Velem polju|1817|46,35588°N 13,86133°E
+Stara koča na Kaninu|1814|46,3436°N 13,47597°E
+Pri treh macesnih|1810|46,44696°N 13,83911°E
+Vrtec|1809|46,30517°N 13,8063°E
+Jezero v Lužnici|1801|46,25519°N 13,68558°E
+Visoki Orlov rob|1800|46,2415°N 13,8365°E
+Škraplja|1794|46,3853°N 13,5335°E
+Plesišče|1790|46,353°N 13,905°E
+Kumlehova glava|1788|46,45375°N 13,75866°E
+Rušni vrh|1786|46,2326°N 13,9373°E
+Stadorski Orliči|1782|46,30215°N 13,80323°E
+Rušnata Mlinarica|1777|46,41265°N 13,87945°E
+Krasji vrh|1773|46,2892°N 13,59277°E
+Rigeljc|1768|46,30152°N 13,79966°E
+Veliki vrh (Polovnik)|1768|46,29498°N 13,57129°E
+Čukla|1767|46,35878°N 13,54751°E
+Svete Višarje / Monte Lussari|1766|46,47998°N 13,523°E
+Kurji vrh|1762|46,46596°N 13,80579°E
+Pršivec|1761|46,2973°N 13,82122°E
+Glave|1760|46,46647°N 13,70185°E
+Luknja|1758|46,38798°N 13,81486°E
+Sovna glava|1750|46,42703°N 13,75107°E
+Zavitar|1750|46,24881°N 13,84507°E
+Visoka peč|1749|46,4668°N 13,7353°E
+Ciprnik|1745|46,46923°N 13,74031°E
+Vršič vrh|1737|46,4341°N 13,74667°E
+Skutnik /Monte Guarda|1721|46,32246°N 13,43927°E
+Planina Jezerce|1720|46,33733°N 13,83825°E
+Planina Zgornja Krma|1720|46,3682°N 13,86771°E
+Veliki Karman / Monte Chiampon|1713|46,2946°N 13,1815°E
+Rutarski Vršič|1699|46,4648°N 13,84688°E
+Gradovec|1692|46,2396°N 13,8857°E
+Poštarski dom na Vršiču|1688|46,43244°N 13,74758°E
+Koča pri Triglavskih jezerih|1685|46,3186°N 13,77898°E
+Orlove glave|1682|46,2494°N 13,8372°E
+Velo polje|1680|46,35695°N 13,85513°E
+Stol (Julijske Alpe)|1673|46,27827°N 13,45413°E
+Planina Krstenica|1670|46,32596°N 13,85037°E
+Na Glavi|1666|46,38446°N 13,72422°E
+Jehlc (Špičasta kupa)|1662|46,22019°N 13,86219°E
+Rifugio di Brazza|1660|46,41422°N 13,44656°E
+Planina Ovčarija|1660|46,30959°N 13,79581°E
+Zavetišče pod Ponco|1657|46,46638°N 13,6855°E
+Lisc (Lisec)|1653|46,24028°N 13,92782°E
+Florjanka / Monte Florianca|1653|46,4853°N 13,5471°E
+Svinjak|1653|46,35041°N 13,61174°E
+Planina pod Mišelj vrhom|1645|46,34973°N 13,84596°E
+Matajur|1642|46,21211°N 13,52945°E
+Gabrovec (Veliki Muzec)|1630|46,28907°N 13,41061°E
+Blejska koča na Lipanci|1630|46,3753°N 13,92753°E
+Planina Viševnik|1625|46,30592°N 13,81746°E
+Vošni vrh|1621|46,4128°N 13,9439°E
+Tičarjev dom na Vršiču|1618|46,43278°N 13,74439°E
+Breški Jalovec / Punta di Montemaggiore|1613|46,28461°N 13,36944°E
+Muzec - Musc (Mali Muzec)|1612|46,28734°N 13,41855°E
+Slatnik (severozahodni vrh)|1609|46,23708°N 13,99341°E
+Možic|1602|46,24182°N 13,99482°E
+Planina za Migovcem|1600|46,2615°N 13,787°E
+Slatnik (jugovzhodni vrh)|1597|46,23455°N 13,99907°E
+Nemške glave|1597|46,40844°N 13,57477°E
+Jerebikovec|1593|46,44318°N 13,95553°E
+Lovska koča Berebica|1590|46,38603°N 13,72203°E
+Bivak Stuparich|1587|46,44486°N 13,44788°E
+Brinova glava|1586|46,42819°N 13,85417°E
+Šavnik|1574|46,24208°N 13,98469°E
+Grušnica|1570|46,2391°N 13,7504°E
+Višarska planina / Malga di Lussari|1570|46,47591°N 13,5335°E
+Visoki Mavrinc|1562|46,45009°N 13,76556°E
+Planina v Lazu|1560|46,32882°N 13,82552°E
+Planina Dedno Polje|1560|46,31511°N 13,81189°E
+Planina Lopučnica|1558|46,3158°N 13,76698°E
+Javoršček|1557|46,3141°N 13,5976°E
+Planina Klek|1556|46,39407°N 13,96161°E
+Mojčin dom na Vitrancu|1555|46,476°N 13,7598°E
+Planja (nad Mangartsko planino)|1553|46,4263°N 13,6154°E
+Bivak pod Muzcem|1550|46,28743°N 13,41393°E
+Lajnar|1549|46,23017°N 14,00632°E
+Planina v Plazeh|1548|46,352°N 13,7317°E
+Dravh|1547|46,23268°N 14,0138°E
+Dom na Matajure|1545|46,20924°N 13,52503°E
+Požar|1543|46,42047°N 13,88618°E
+Kravja Črna gora|1541|46,2401°N 13,96039°E
+Visoka glava (na Matajurju)|1540|46,218°N 13,5255°E
+Mesnovec|1538|46,3372°N 13,9446°E
+Planinska koča Merjasec|1535|46,26335°N 13,83977°E
+Viška planina|1530|46,41478°N 13,50194°E
+Planina na Polju|1530|46,2785°N 13,67646°E
+Lovska koča na Glinu|1527|46,2411°N 13,8684°E
+Erjavčeva koča na Vršiču|1525|46,43921°N 13,74934°E
+Rifugio Cinque Punte|1520|46,45894°N 13,59549°E
+Dom na Komni|1520|46,28446°N 13,77338°E
+Planina Ravna|1515|46,4851°N 13,467°E
+Krevl|1515|46,23596°N 13,96068°E
+Koča pod Bogatinom|1513|46,28775°N 13,76333°E
+Planina Za skalo|1510|46,31904°N 13,71744°E
+Malga Granuda|1501|46,48092°N 13,40444°E
+Lovska koča Na Utrci|1500|46,39604°N 13,79424°E
+Rifugio Pellarini|1499|46,44064°N 13,50833°E
+Lengarjeva glava|1498|46,42482°N 13,89332°E
+Kobla|1498|46,23387°N 13,96483°E
+Planina na Kalu|1490|46,2422°N 13,7558°E
+Nizki vrh |1488|46,2916°N 13,3902°E
+Črni vrh / Colrotondo|1486|46,475°N 13,6534°E
+Planina Vodični vrh|1486|46,3015°N 13,8437°E
+Javorov vrh (Pokljuka)|1482|46,32423°N 13,95066°E
+Planina Govnjač|1480|46,27634°N 13,76316°E
+Bivak pod Luknjo|1480|46,39127°N 13,82189°E
+Kobilja glava|1475|46,19015°N 13,79541°E
+Planina Poljana|1466|46,23684°N 13,89276°E
+Vrtaška planina|1462|46,45333°N 13,9042°E
+Koča na Planini pri Jezeru|1453|46,30968°N 13,82758°E
+Jalovnik|1452|46,18723°N 13,80083°E
+Planina Sleme|1448|46,2429°N 13,6918°E
+Laghetto di Somdogna|1447|46,45933°N 13,44731°E
+Risnati rob (Polevec)|1438|46,44325°N 13,94608°E
+Planina Konjščica|1438|46,3488°N 13,89645°E
+Rifugio Brunner|1432|46,42357°N 13,53081°E
+Bivak pod Špikom|1424|46,45705°N 13,81836°E
+Planina Zadnji Vogel|1413|46,2502°N 13,8277°E
+Planina Gorjuda|1404|46,38629°N 13,43932°E
+Planina nad Sočo|1400|46,3522°N 13,6587°E
+Planina Osredki|1400|46,2379°N 13,92248°E
+Krnsko jezero|1391|46,2857°N 13,68434°E
+Mali vrh (na Mežakli)|1389|46,4485°N 13,9511°E
+Rifugio Grego|1389|46,4575°N 13,4551°E
+Planina Zapotok|1385|46,38288°N 13,68511°E
+Planina Suha|1385|46,24169°N 13,85591°E
+Dom pri Krnskih jezerih|1385|46,28869°N 13,69618°E
+Tonkina koča na Vršiču|1380|46,4389°N 13,7538°E
+Rifugio Zacchi|1380|46,45921°N 13,6843°E
+Planica pod Krnom|1376|46,2485°N 13,64°E
+Lipenšči hrib|1375|46,354°N 13,9572°E
+Mali Karman / Monte Cuarnan|1372|46,2787°N 13,1866°E
+Javor (nad Tolminskimi Ravnami)|1363|46,234°N 13,7592°E
+Mrzli vrh nad planino Pretovč|1359|46,2188°N 13,69596°E
+Planina Strehica|1359|46,4876°N 13,4552°E
+Mrzli vrh (na Matajurju)|1358|46,20958°N 13,56234°E
+Črna gora|1350|46,43525°N 13,91178°E
+Orožnova koča na planini za Liscem|1346|46,24172°N 13,93748°E
+Bivak Za Akom|1340|46,45952°N 13,83833°E
+Planina Za Črno goro|1340|46,23846°N 13,95137°E
+Planina Goričica|1336|46,3532°N 13,54087°E
+Frčkova planina|1335|46,4231°N 13,9504°E
+Srednji vrh (na Matajurju)|1320|46,2088°N 13,5655°E
+Planina za Šavnikom|1320|46,2461°N 13,9872°E
+Koča na planini Razor|1315|46,23562°N 13,79334°E
+Kota 1313|1313|46,36066°N 13,57516°E
+Koča na Soriški planini|1306|46,24°N 14,00737°E
+Planina Dobrenjščica|1304|46,2643°N 13,7384°E
+Lovska koča Bala|1300|46,3893°N 13,652°E
+Mangartska planina|1295|46,4296°N 13,6089°E
+Črno jezero|1294|46,29834°N 13,79533°E
+Planina Zajavornik|1292|46,36027°N 13,9489°E
+Planina Zajamniki|1280|46,3127°N 13,9344°E
+Vrh Bače|1273|46,2367°N 13,9808°E
+Rečiška planina|1265|46,3498°N 14,0106°E
+Galetovec|1265|46,33145°N 14,03875°E
+Berjanca|1264|46,3546°N 14,0203°E
+Zgornji Goreljek (Pokljuka)|1260|46,3358°N 13,9632°E
+Planina Krnica|1252|46,35243°N 13,5087°E
+Idrska planina|1250|46,21225°N 13,56509°E
+Planina Zgornja Grintovica|1250|46,32841°N 13,86507°E
+Turn (nad Bohinjsko Belo)|1249|46,3392°N 14,0366°E
+Planina Berebica|1248|46,37589°N 13,71676°E
+Planina Zagreben|1240|46,29848°N 13,65017°E
+Belska planina|1237|46,3367°N 14,0224°E
+Izvir Nadiže|1232|46,4484°N 13,707°E
+Planina Zgornji Kozjek|1230|46,4296°N 14,0017°E
+Planina Leskovca|1230|46,24888°N 13,67888°E
+Koča na Gozdu|1226|46,43964°N 13,76252°E
+Bivak Hlek|1225|46,26671°N 13,51519°E
+Spodnji Goreljek (Pokljuka)|1222|46,3304°N 13,9821°E
+Italijanska vojaška kapela na Planici|1220|46,2427°N 13,6428°E
+Svinska planina|1214|46,21896°N 13,55144°E
+Grajska planina (Ribšca)|1210|46,3428°N 13,9984°E
+Škrbina (Mežakla)|1210|46,42439°N 14,04422°E
+Planina Zaprikraj|1208|46,28773°N 13,62328°E
+Lovska koča Mali Vokel|1193|46,353°N 14,0259°E
+Lovčev bivak Pri Koucah|1192|46,2306°N 13,9959°E
+Police|1184|46,4016°N 14,0128°E
+Planina Bala|1181|46,3802°N 13,6375°E
+Planina Spodnja Grintovica|1175|46,33191°N 13,86584°E
+Planina Ilovec|1170|46,3295°N 14,0333°E
+Planina Pretovč|1160|46,22563°N 13,6942°E
+Bivak na Črniku|1160|46,26463°N 13,64347°E
+Koča na Uskovnici|1154|46,32053°N 13,90957°E
+Zgornji Martuljkov slap|1150|46,46112°N 13,83886°E
+Planina Blato|1147|46,314°N 13,8491°E
+Gozdarska koča Mali Vokel|1145|46,3525°N 14,0287°E
+Zapotoški slapovi|1140|46,38651°N 13,6926°E
+Planina Medrja|1133|46,2329°N 13,7013°E
+Snežna jama na Mežakli|1130|46,4156°N 14,0566°E
+Ruska kapelica|1130|46,44288°N 13,7679°E
+Bedančev dom|1116|46,4836°N 13,7622°E
+Koča v Krnici|1113|46,43236°N 13,78762°E
+Dom v Tamarju|1108|46,44605°N 13,7134°E
+Hotunjski vrh|1107|46,3652°N 14,0407°E
+Planina Lom|1090|46,19957°N 13,78219°E
+Mihov dom na Vršiču|1085|46,44342°N 13,77177°E
+Kobala|1080|46,18139°N 13,77967°E
+Malga Cuarnan|1070|46,2842°N 13,1788°E
+Planina v Prodih|1070|46,2284°N 13,8315°E
+Kosijev dom na Vogarju|1054|46,29671°N 13,867°E
+Slapovi v Kotu|1050|46,40524°N 13,88722°E
+Partizanska bolnišnica na Mežakli|1050|
+Koča na planini Stador|1050|46,19°N 13,78197°E
+Kup|1046|46,22006°N 13,99055°E
+Planina Obranica|1035|46,41199°N 14,06793°E
+Planinsko zavetišče Slatna|1023|46,48802°N 13,71391°E
+Vodnikov razglednik|1017|46,3023°N 13,977°E
+Aljažev dom v Vratih|1015|46,40904°N 13,84339°E
+Jezerska planina / Alpe del Lago|1006|46,4671°N 13,6614°E
+Planina za Jamo|1005|46,32256°N 14,03886°E
+Studor|1002|46,29553°N 13,90745°E
+Koča na planini Kuhinja|1002|46,24144°N 13,65986°E
+Klatnica |1000|46,2794°N 13,417°E
+Planina Laška seč|1000|46,2353°N 13,7055°E
+Izvir Soče|990|46,41185°N 13,72405°E
+Sveta Marjeta pod Stolom|973|46,2732°N 13,4377°E
+Ožarjeni kamen|960|46,28955°N 13,83164°E
+Planina Ravne|956|46,4121°N 14,006°E
+Slap Suha|950|46,30581°N 13,85786°E
+Rudnica|946|46,28545°N 13,92079°E
+Boršt|931|46,4011°N 14,0829°E
+Slap Zaročenca|930|
+Ingotova koča na planini Jesenje|930|46,4698°N 13,83131°E
+Zgornje Mangartsko jezero|929|46,47529°N 13,66811°E
+Spodnje Mangartsko jezero|924|46,4821°N 13,6733°E
+Planina Rčitno|900|46,3566°N 14,0404°E
+Kres nad Kočno|890|46,419°N 14,0789°E
+Planina Blatce|888|46,2974°N 13,8991°E
+Kovinarska koča v Krmi|870|46,4005°N 13,9235°E
+Vrše|850|46,4077°N 14,0882°E
+Izvir Boke|850|46,3221°N 13,4784°E
+Slap Peričnik - zgornji slap|850|46,43948°N 13,89354°E
+Spodnji Martuljkov slap|850|46,47233°N 13,82839°E
+Zelenci|845|46,49235°N 13,73771°E
+Grančišče|844|46,4589°N 13,9328°E
+Logje|840|46,37498°N 13,63454°E
+Hom pri Bledu|834|46,39476°N 14,0931°E
+Jezero Jasna|830|46,4748°N 13,7833°E
+Pokljuška soteska (luknja)|830|46,3766°N 14,0326°E
+Poljanska baba|830|46,4176°N 14,0779°E
+Brezje / Montemaggiore|819|46,2681°N 13,37°E
+Sv. Peter in Pavel (Perati)|812|46,2028°N 13,5942°E
+Humčič|810|46,3143°N 13,57605°E
+Žerjavec (Kavče)|805|46,4159°N 14,0853°E
+Koča na Petrovem Brdu|804|46,2154°N 13,999°E
+Planina Črča|800|46,2359°N 13,7113°E
+Slap Peričnik - spodnji slap|800|46,43906°N 13,89364°E
+Slap Savica|794|46,29276°N 13,79741°E
+Počitniški dom v Možnici|793|46,38443°N 13,56775°E
+Kamin Široka polica|780|46,27738°N 13,91286°E
+Slap Mostnice|773|46,3305°N 13,8755°E
+Rio Bianco / Beli potok|770|46,2777°N 13,3829°E
+Korita Mlinarice|770|46,40282°N 13,74513°E
+Sveti Lenart (Bača pri Podbrdu)|751|46,2219°N 13,9723°E
+Koča pri Peričniku|750|46,4385°N 13,8962°E
+Slap Slatenik|750|46,30815°N 13,5853°E
+Okrepčevalnica Slap Voje|745|46,3293°N 13,8782°E
+Gogalova lipa|725|46,4319°N 13,9533°E
+Mladinski izobraževalni center v Bavšici|725|46,36914°N 13,63367°E
+Jamnikov spodmol|720|46,4172°N 14,0844°E
+Belopotoški slap|720|46,3835°N 13,78111°E
+Jezero Kreda|715|46,4488°N 13,9286°E
+Dolina Škratov|700|46,30941°N 13,58232°E
+Slap Parabola|700|46,40195°N 13,60737°E
+Izvir Tolminke|695|46,25741°N 13,72818°E
+Mala Osojnica|691|46,35703°N 14,08113°E
+Koča na Vojah|690|46,31017°N 13,88238°E
+Gorejca|680|46,40152°N 13,59223°E
+Slap Boka|680|46,3212°N 13,4784°E
+Jezero Kreda v dolini Radovne|674|46,4166°N 13,9916°E
+Izvir Bele|665|46,2712°N 13,4257°E
+Izvir Lipnika|660|46,3846°N 14,0266°E
+Spominsko obeležje Aleš Kunaver|660|46,4127°N 14,0895°E
+Jezerce v dolini Radovne|657|46,3905°N 14,0189°E
+Koča pri Savici|653|46,28979°N 13,8024°E
+Peč (razgledišče)|650|46,27562°N 13,91005°E
+Straža |646|46,35971°N 14,1035°E
+Marija Snežna v Breginjskem kotu|645|46,26577°N 13,42156°E
+Sveta Katarina na Homu|634|46,3945°N 14,108°E
+Poglejska cerkev|630|46,374°N 14,07192°E
+Dobra gora|620|46,3542°N 14,1095°E
+Izvir Bistrice|610|
+Blejski grad|599|46,3697°N 14,1004°E
+Ribenska gora|588|
+Ajdovski gradec|580|46,27941°N 13,96267°E
+Korita Možnice (Nemčlje)|580|46,38047°N 13,57911°E
+Javorca|571|46,23491°N 13,71976°E
+Jama Srnica|550|46,33136°N 13,50243°E
+Iglica|550|46,34817°N 14,05965°E
+Sveti Janez Krstnik (Ribčev Laz)|532|46,2786°N 13,8866°E
+Slap Šum v Blejskem Vintgarju|520|46,4006°N 14,0987°E
+Mlina peč|506|46,351°N 14,0657°E
+Žičnica čez Tolminko|500|46,24838°N 13,72596°E
+Tonovcov grad pri Kobaridu|500|46,25763°N 13,58033°E
+Gradišče (Bodešče)|499|46,3435°N 14,1392°E
+Sveti Lenart (Bodešče)|485|46,3437°N 14,1393°E
+Velika korita Soče|480|46,33706°N 13,6459°E
+Blejsko jezero|475|46,36502°N 14,08872°E
+Slap Beri|454|46,18386°N 13,76497°E
+Izvir Glijuna|450|46,3352°N 13,51064°E
+Mala Boka|440|46,3208°N 13,49241°E
+Kozlov rob|426|46,1893°N 13,7254°E
+Slap Sopota (Soupat)|400|46,1692°N 13,80274°E
+Slap Virje|400|46,33494°N 13,51418°E
+Gregorčičev slap|390|
+Korita Soče pri Kršovcu|390|46,33341°N 13,59312°E
+Veliki slap Kozjak|250|46,25801°N 13,58822°E
+Mali slap Kozjak|230|46,25773°N 13,58801°E
+Tolminska korita|180|46,2005°N 13,7421°E

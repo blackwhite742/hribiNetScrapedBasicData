@@ -1,0 +1,89 @@
+Tošč|1021|46,09737°N 14,32132°E
+Pasja ravan|1020|46,09788°N 14,22914°E
+Goli vrh|962|46,0442°N 14,1756°E
+Sivka|934|46,07293°N 14,2091°E
+Mlaka|914|46,1067°N 14,25789°E
+Javorč|901|46,0703°N 14,1419°E
+Polhograjska Grmada|898|46,08381°N 14,33304°E
+Gontarska planina|894|46,11408°N 14,33757°E
+Lavrovec|890|46,02414°N 14,1884°E
+Sveti Lenart|861|46,08742°N 14,25249°E
+Sveti Ožbolt (nad Zmincem)|859|46,1156°N 14,2862°E
+Osolnik|858|46,13204°N 14,33437°E
+Mala Grmada|853|46,08113°N 14,33017°E
+Bukov vrh|832|46,10907°N 14,2156°E
+Polhograjska Gora (Sveti Lovrenc)|824|46,07083°N 14,29876°E
+Veliki hrib|815|46,08103°N 14,28909°E
+Goljek|809|46,08606°N 14,35638°E
+Sveti Jakob|806|46,10501°N 14,36909°E
+Marinčeva planina (Hrib)|805|46,04512°N 14,21678°E
+Sveti Andrej (Planina nad Horjulom)|798|46,049°N 14,2137°E
+Rog|798|46,09762°N 14,37688°E
+Kožljek|788|46,0343°N 14,25499°E
+Brunarica Osovnik|777|46,128°N 14,33852°E
+Jeterbenk|774|46,1024°N 14,38719°E
+Stražni stolp pod vrhom Kovčka|770|46,0447°N 14,2013°E
+Sveta Jedert|750|46,101°N 14,3029°E
+Sveta Katarina (Topol)|738|46,0965°N 14,3765°E
+Dom na Govejku|734|46,11558°N 14,34606°E
+Koreno|729|46,03562°N 14,29263°E
+Jermanca (Jermancov grič)|728|46,088°N 14,131°E
+Hom|715|46,13893°N 14,36003°E
+Mali vrh|708|46,0533°N 14,2795°E
+Kucelj nad Polhovim Gradcem|705|46,069°N 14,3335°E
+Sveta Uršula (Setnica)|700|46,07895°N 14,32481°E
+Kregovnik|692|46,0796°N 14,3386°E
+Sveta Ana (Butajnova)|686|46,04166°N 14,23683°E
+Sveti Florijan (Tehovec)|685|46,1136°N 14,366°E
+Grmada|676|46,12803°N 14,45505°E
+Dominov dom|670|46,12613°N 14,34837°E
+Šmarna gora|669|46,12985°N 14,46391°E
+Kugelč (Šentjošt nad Horjulom)|666|46,0312°N 14,2207°E
+Sveti Mihael na Samotorici|665|46,02879°N 14,25775°E
+Domačija Pr Lenart (Belo)|650|46,0788°N 14,3591°E
+Breznik (Boben)|643|46,1306°N 14,3791°E
+Rašica (Vrh Staneta Kosca)|641|46,13972°N 14,51215°E
+Sveta Barbara (nad Hrastnico)|629|46,1255°N 14,3163°E
+Ključ|623|46,03978°N 14,34369°E
+Sveti Andrej (nad Zmincem)|617|46,1357°N 14,3015°E
+Vrhe nad Dobrovo|603|46,05656°N 14,38604°E
+Visoki hrib|602|46,0408°N 14,3066°E
+Toško Čelo|590|46,08405°N 14,42213°E
+Sveti Urban (nad Gorenjo Dobravo)|570|46,08925°N 14,1607°E
+Veliki vrh (Rašica)|568|46,1417°N 14,49561°E
+Sveti Martin nad Brišami|567|46,0492°N 14,2872°E
+Sveti Jurij (Praproče)|552|46,0602°N 14,2884°E
+Partizanski dom na Ključu|550|46,03855°N 14,34835°E
+Gradišče nad Žažarjem|547|46,00531°N 14,26888°E
+Vrh (Debeli hrib)|540|46,0309°N 14,3877°E
+Gradišče (nad Dobrovo)|530|46,0411°N 14,414°E
+Planinski dom na Ravneku|522|46,0698°N 14,3213°E
+Smledniški hrib (Stari grad)|517|46,1654°N 14,4421°E
+Vrhovčev grič|495|46,03054°N 14,37261°E
+Sveta Marjeta pod Jeterbenkom|482|46,11068°N 14,39254°E
+Bezenica|476|46,05511°N 14,36023°E
+Strmca|472|46,0238°N 14,3578°E
+Koseški hrib|467|46,17574°N 14,52749°E
+Kalvarija|460|46,06655°N 14,31232°E
+Gradišče (Zapoški hrib)|451|46,1692°N 14,4747°E
+Strmec (nad Dragomerom)|446|46,01603°N 14,36772°E
+Debeli vrh (nad Topolami)|446|46,1762°N 14,5444°E
+Klobuk pri Ljubljani|441|46,0636°N 14,4329°E
+Stražni vrh|439|46,06876°N 14,44191°E
+Lovska koča na Klobuku|433|46,0637°N 14,4347°E
+Mengeška koča na Gobavici|433|46,16569°N 14,56139°E
+Šišenski hrib (Rožnik)|429|46,06014°N 14,48803°E
+Sveti Urh (nad Zaklancem)|420|46,02653°N 14,32047°E
+Sveti Tilen nad Repnjami|419|46,1705°N 14,4773°E
+Sveti Jurij (Hruševo)|414|46,073°N 14,3883°E
+Slavkov dom na Golem brdu|396|46,10517°N 14,41761°E
+Straža|395|46,111°N 14,51612°E
+Cankarjev vrh (Rožnik)|394|46,05492°N 14,47719°E
+Sveti križ na Hribcu|380|46,1623°N 14,3133°E
+Blagajev grad (Polhograjska graščina)|377|46,0675°N 14,3138°E
+Ljubljanski grad|376|46,04867°N 14,50841°E
+Liparjev grič|374|46,02146°N 14,38877°E
+Mlinčki|340|46,1787°N 14,5297°E
+Mostec|316|46,0629°N 14,4792°E
+Grad Jablje|310|46,14168°N 14,55343°E
+Koseški bajer|307|46,0673°N 14,4687°E

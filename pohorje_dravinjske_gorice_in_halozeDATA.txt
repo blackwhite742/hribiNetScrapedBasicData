@@ -1,0 +1,89 @@
+Črni vrh|1543|46,48561°N 15,23325°E
+Velika Kopa|1542|46,50669°N 15,1981°E
+Jezerski vrh|1537|46,4938°N 15,26443°E
+Mali Črni vrh|1533|46,49591°N 15,25396°E
+Lovrenška jezera|1520|46,48336°N 15,31557°E
+Rogla|1517|46,45643°N 15,3458°E
+Ribniška koča|1507|46,49786°N 15,2557°E
+Ostruščica|1498|46,45852°N 15,3235°E
+Ribniško jezero|1490|46,49488°N 15,26935°E
+Pot med krošnjami Pohorje|1460|46,45216°N 15,32753°E
+Pesek|1423|46,46848°N 15,34165°E
+Lasina|1412|46,48128°N 15,34364°E
+Izvir reke Pake|1412|
+Koča na Pesku|1386|46,4672°N 15,34395°E
+Grmovškov dom|1371|46,50272°N 15,21034°E
+Žigartov vrh|1346|46,49446°N 15,48712°E
+Veliki vrh (na Pohorju)|1344|46,4433°N 15,44821°E
+Klopni vrh|1340|46,49805°N 15,39211°E
+Tiho jezero (Falski ribnik)|1266|46,4826°N 15,396°E
+Turn (pri Klopnem vrhu)|1261|46,50814°N 15,39682°E
+Koča na Klopnem vrhu|1260|46,5019°N 15,3993°E
+Ruška koča na Arehu|1246|46,49505°N 15,50823°E
+Lukov slap|1240|46,4581°N 15,3091°E
+Lamprehtov vrh|1230|46,50998°N 15,40916°E
+Jezerc|1222|46,4899°N 15,3285°E
+Črno jezero na Pohorju|1196|46,44994°N 15,43096°E
+Dom na Osankarici|1193|46,44902°N 15,41921°E
+Sveti Trije kralji|1181|46,43769°N 15,45884°E
+Izvir Polskave|1180|46,49026°N 15,50453°E
+Kremžarjev vrh|1164|46,52965°N 15,13416°E
+Razglednik|1147|46,51178°N 15,56503°E
+Planinski dom Zarja (Hotel Zarja)|1113|46,49214°N 15,535°E
+Koča pod Kremžarjevim vrhom|1102|46,52821°N 15,12847°E
+Koča na Pesniku|1101|46,51795°N 15,25121°E
+Koča na Šumiku|1100|46,48487°N 15,44409°E
+Mariborska koča|1086|46,5015°N 15,55552°E
+Sveta Uršula (Bojtina)|1006|46,47198°N 15,50267°E
+Repnikov vrh|988|46,43198°N 15,49173°E
+Jezerce Drtičnikovo|960|46,51738°N 15,3918°E
+Slap Veliki Šumik|950|46,48341°N 15,45342°E
+Sveti Križ (Kumen)|928|46,51664°N 15,42816°E
+Framski slap|925|46,49816°N 15,55292°E
+Janževski vrh|915|46,5688°N 15,3042°E
+Hlebov vrh (Rdeči Breg)|913|46,56844°N 15,3402°E
+Sveti Urh (Urh)|895|46,42898°N 15,5069°E
+Slap Mali Šumik|890|46,4862°N 15,45335°E
+Sveti Ignacij (Rdeči Breg)|885|46,56762°N 15,33665°E
+Lovski dom LD Gradišče|880|46,5388°N 15,1165°E
+Klančnik (Glančnik)|877|46,56827°N 15,36074°E
+Lovska koča Klančnik|865|46,56729°N 15,35877°E
+Sveti Danijel (nad Trbonjami)|845|46,59011°N 15,07287°E
+Golarjev vrh|843|46,5753°N 15,0704°E
+Sveta Barbara nad Slovenj Gradcem|829|46,51391°N 15,14508°E
+Majalova kapelica|823|
+Kebeljski grad (Zajčev grad)|813|46,41351°N 15,45139°E
+Golek|769|46,38111°N 15,36192°E
+Anski vrh (nad Pamečami)|756|46,55314°N 15,07503°E
+Ančnikovo gradišče|750|
+Šetorov mlin|745|46,45828°N 15,51736°E
+Trije križi na Konjiški gori|727|
+Pečke|720|46,5227°N 15,5408°E
+Sveta Magdalena (Brda)|718|46,4735°N 15,1601°E
+Ribnica na Pohorju|715|46,5354°N 15,2674°E
+Lobnikov vrh|705|46,5613°N 15,4454°E
+Koglerjev vrh|698|46,53074°N 15,36268°E
+Sveti Križ (Planica)|692|46,46934°N 15,56702°E
+Žusem|669|
+Lovski dom - LD Fram|668|46,46819°N 15,57914°E
+Potnikova smreka|651|46,46954°N 15,56315°E
+Jelovice|623|46,30691°N 15,7401°E
+Brinjeva gora (nad Zrečami)|616|46,3764°N 15,4076°E
+Sveti Mohor (Lačna Gora)|602|46,39652°N 15,45256°E
+Hožičev vrh|595|46,53547°N 15,36992°E
+Kerješetov vrh|590|46,30995°N 15,74912°E
+Lorbekov vrh|578|46,53259°N 15,5271°E
+Rudnica (nad Podčetrtkom)|548|
+Sveti Bolfenk (Jelovice)|537|46,31468°N 15,75149°E
+Skala (nad Dravogradom)|525|46,5867°N 15,0327°E
+Gradišče (nad Slovenj Gradcem)|516|46,5159°N 15,092°E
+Sveti Avguštin|504|46,2899°N 15,9339°E
+Sv. Ana nad Makolami|460|
+Janški vrh|417|46,3358°N 15,7935°E
+Sv. Marjeta (Ritoznoj)|407|46,4192°N 15,58653°E
+Cerkev Device Marije na Kamnu|381|46,6078°N 15,172°E
+Vodni izvir Zlati studenec|375|46,45596°N 15,62235°E
+Ptujska Gora|342|46,35455°N 15,76152°E
+Kapela sv. Ane v Puščavi|330|46,55285°N 15,42214°E
+Izvir Toplega (Studeniškega) potoka|295|
+Sveta Lucija nad Studenicami|290|46,3065°N 15,6119°E
